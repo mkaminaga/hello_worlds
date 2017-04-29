@@ -1,0 +1,16 @@
+# C++
+*.exe
+*.o
+*.d
+
+# haskell
+*.exe
+*.o
+*.hi
+
+# Etc.
+*.stackdump
+~*
+*~
+'*
+*'
