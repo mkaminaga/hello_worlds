@@ -1,4 +1,4 @@
-Copyright (C) 2017 Mamoru kaminaga
+﻿Copyright (C) 2017 Mamoru kaminaga
 
 1. リポジトリを fork してください (http://github.com//mkaminaga/hello_worlds)
 2. feature ブランチを作成してください (git checkout -b my-new-feature)

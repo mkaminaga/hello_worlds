@@ -1,4 +1,4 @@
-﻿Copyright (C) 2017 Mamoru Kaminaga
+Copyright (C) 2017 Mamoru Kaminaga
 
 hello_worlds
 ====
